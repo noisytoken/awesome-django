@@ -609,6 +609,7 @@ phone numbers.
 ## Websites
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
+* [Django Tutorial](https://overiq.com/django/1.10/intro-to-django) - A project based up to update tutorial for Django beginners
 * [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Tutorial that shows how to set up a development environment, and how to get started with using it to create your own web applications.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
 * [Django Packages](https://djangopackages.org/) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
